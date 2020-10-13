@@ -1,0 +1,24 @@
+    1  --version
+    2  git --version
+    3  rails --v
+    4  rails --version
+    5  pwd
+    6  ls -al
+    7  clear
+    8  git config --global user.name "x18158153"
+    9  git config --global user.email x18158153@student.ncirl.ie
+   10  ls
+   11  clear
+   12  git clone https://github.com/x18158153/Cloud9.git
+   13  ls
+   14  Cd Cloud9/
+   15  cd Cloud9/
+   16  git status
+   17  git add --all
+   18  ls
+   19  git status
+   20  git commit -m @added Info about birds, Insect and Reptimes@
+   21  git commit -m 'added Info about birds, Insect and Reptimes'
+   22  git push
+   23  clear
+   24  history>>commands.txt
